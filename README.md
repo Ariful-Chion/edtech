@@ -1,3 +1,3 @@
 # edtech
 This is html/css project
-This is live project link: https://ariful-chion.github.io/edtech/
+This is live project link: https://chion-ariful.github.io/edtech/
